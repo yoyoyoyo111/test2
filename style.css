@@ -22,12 +22,12 @@ h6 {
     color:pink;
     text-align:center;
 }
-div.intro {
+#intro {
 	background-color:grey;
 	font-family: Arial, sans-serif;
 	border: 3px solid blue;
 }
-div.lists{
+#lists{
 	background-color:#ffabf4;
 	padding:20px;
 	font-family: Arial, sans-serif;
