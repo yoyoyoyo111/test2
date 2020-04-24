@@ -22,5 +22,31 @@ h6 {
     color:pink;
     text-align:center;
 }
+div.intro {
+	background-color:grey;
+	font-family: Arial, sans-serif;
+	border: 3px solid blue;
+}
+div.lists{
+	background-color:#ffabf4;
+	padding:20px;
+	font-family: Arial, sans-serif;
+	border: 3px solid blue;
+}
+table{
+	border: 2px solid black;
+	background-color:grey;
+	border-collapse: collapse;
+}
+th{
+	border: 1px solid black;
+	text-align: center;
+}
+form{
+	border: 3px solid black;
+	background-color:teal;
+	padding: 10px;
+}
+
 
    	   	   
