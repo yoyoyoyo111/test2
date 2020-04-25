@@ -26,12 +26,14 @@ h6 {
 	background-color:grey;
 	font-family: Arial, sans-serif;
 	border: 3px solid blue;
+	height: 400px;
 }
 #lists{
 	background-color:#ffabf4;
 	padding:20px;
 	font-family: Arial, sans-serif;
 	border: 3px solid blue;
+	height: 300px;
 }
 table{
 	border: 2px solid black;
