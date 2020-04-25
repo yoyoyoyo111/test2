@@ -50,5 +50,30 @@ form{
 	padding: 10px;
 }
 
+ol li{
+	color: blue;
+}
+
+input[type=text]{
+	background-color: red;
+}
+input[type=number]{
+	background-color: yellow;
+}
+button {
+	background-color: green;
+	font-size: 24px;
+}
+
+button:hover {
+	background-color: orange;
+}
+a::before{
+	content: "\21d2 Clkick here:   ";
+	font-weight: bold;
+}
+ul li::selection{
+	color: red;
+}
 
    	   	   
